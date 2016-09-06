@@ -6,6 +6,11 @@
 
 ---
 
+## Slides are available at:
+### github.com/jacklenox/introduction-to-oop
+
+---
+
 # Introducing the introduction
 
 ## What is Object-Oriented Programming?
@@ -522,6 +527,6 @@ class My_Widget extends WP_Widget {
 
 ## Thank you :heart:
 
-### twitter.com/jacklenox
+### github.com/jacklenox/introduction-to-oop
 
 ### automattic.com/work-with-us/
